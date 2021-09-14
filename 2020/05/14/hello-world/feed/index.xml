@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Lorem ipsum dolor sit amet consectetur	</title>
-	<atom:link href="https://zadeleon.github.io/company-website.git/2020/05/14/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>https://zadeleon.github.io/company-website.git/2020/05/14/hello-world/</link>
+	<atom:link href="https://zadeleon.github.io/company-website/2020/05/14/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://zadeleon.github.io/company-website/2020/05/14/hello-world/</link>
 	<description></description>
 	<lastBuildDate>Thu, 14 May 2020 16:14:07 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>https://zadeleon.github.io/company-website.git/2020/05/14/hello-world/#comment-2</link>
+		<link>https://zadeleon.github.io/company-website/2020/05/14/hello-world/#comment-2</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Thu, 14 May 2020 16:14:07 +0000</pubDate>
-		<guid isPermaLink="false">https://zadeleon.github.io/company-website.git/2020/05/14/hello-world/#comment-2</guid>
+		<guid isPermaLink="false">https://zadeleon.github.io/company-website/2020/05/14/hello-world/#comment-2</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.

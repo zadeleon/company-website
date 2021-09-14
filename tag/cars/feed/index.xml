@@ -9,8 +9,8 @@
 
 <channel>
 	<title>cars &#8211; Whitelight</title>
-	<atom:link href="https://zadeleon.github.io/company-website.git/tag/cars/feed/" rel="self" type="application/rss+xml" />
-	<link>https://zadeleon.github.io/company-website.git</link>
+	<atom:link href="https://zadeleon.github.io/company-website/tag/cars/feed/" rel="self" type="application/rss+xml" />
+	<link>https://zadeleon.github.io/company-website</link>
 	<description></description>
 	<lastBuildDate>Fri, 15 May 2020 14:06:43 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Feugiat scelerisque varius nunc faucibus</title>
-		<link>https://zadeleon.github.io/company-website.git/2020/05/15/feugiat-scelerisque-varius-nunc-faucibus/</link>
-					<comments>https://zadeleon.github.io/company-website.git/2020/05/15/feugiat-scelerisque-varius-nunc-faucibus/#respond</comments>
+		<link>https://zadeleon.github.io/company-website/2020/05/15/feugiat-scelerisque-varius-nunc-faucibus/</link>
+					<comments>https://zadeleon.github.io/company-website/2020/05/15/feugiat-scelerisque-varius-nunc-faucibus/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 15 May 2020 14:06:43 +0000</pubDate>
@@ -30,9 +30,9 @@
 		<category><![CDATA[cars]]></category>
 		<category><![CDATA[music]]></category>
 		<category><![CDATA[team]]></category>
-		<guid isPermaLink="false">https://zadeleon.github.io/company-website.git/2020/05/15/feugiat-scelerisque-varius-nunc-faucibus/</guid>
+		<guid isPermaLink="false">https://zadeleon.github.io/company-website/2020/05/15/feugiat-scelerisque-varius-nunc-faucibus/</guid>
 
-					<description><![CDATA[In ornare quam viverra orci sagittis eu volutpat odio facilisis. Commodo nulla facilisi nullam vehicula ipsum. In dictum non consectetur a erat. Dolor purus non enim praesent elementum facilisis. Non sodales neque sodales ut etiam sit amet nisl purus. Consequat semper viverra nam libero. Enim tortor at auctor urna nunc<a class="moretag" href="https://zadeleon.github.io/company-website.git/2020/05/15/feugiat-scelerisque-varius-nunc-faucibus/"> Read more&#8230;</a>]]></description>
+					<description><![CDATA[In ornare quam viverra orci sagittis eu volutpat odio facilisis. Commodo nulla facilisi nullam vehicula ipsum. In dictum non consectetur a erat. Dolor purus non enim praesent elementum facilisis. Non sodales neque sodales ut etiam sit amet nisl purus. Consequat semper viverra nam libero. Enim tortor at auctor urna nunc<a class="moretag" href="https://zadeleon.github.io/company-website/2020/05/15/feugiat-scelerisque-varius-nunc-faucibus/"> Read more&#8230;</a>]]></description>
 										<content:encoded><![CDATA[
 <p>In ornare quam viverra orci sagittis eu volutpat odio facilisis. Commodo nulla facilisi nullam vehicula ipsum. In dictum non consectetur a erat. Dolor purus non enim praesent elementum facilisis. Non sodales neque sodales ut etiam sit amet nisl purus. Consequat semper viverra nam libero. Enim tortor at auctor urna nunc id cursus. Lobortis scelerisque fermentum dui faucibus in ornare quam. Euismod elementum nisi quis eleifend quam. Sapien nec sagittis aliquam malesuada bibendum.</p>
 
@@ -45,15 +45,15 @@
 <p>Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque. Vulputate ut pharetra sit amet aliquam id. Ornare arcu dui vivamus arcu felis bibendum. Leo integer malesuada nunc vel risus commodo viverra maecenas. Donec enim diam vulputate ut pharetra sit. Nisi scelerisque eu ultrices vitae auctor eu augue ut. Gravida quis blandit turpis cursus in hac habitasse platea. Convallis posuere morbi leo urna molestie. Turpis massa tincidunt dui ut ornare lectus. Viverra mauris in aliquam sem. Urna cursus eget nunc scelerisque viverra mauris. Gravida quis blandit turpis cursus in hac. Accumsan in nisl nisi scelerisque eu.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://zadeleon.github.io/company-website.git/2020/05/15/feugiat-scelerisque-varius-nunc-faucibus/feed/</wfw:commentRss>
+					<wfw:commentRss>https://zadeleon.github.io/company-website/2020/05/15/feugiat-scelerisque-varius-nunc-faucibus/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Lorem ipsum dolor sit amet consectetur</title>
-		<link>https://zadeleon.github.io/company-website.git/2020/05/14/hello-world/</link>
-					<comments>https://zadeleon.github.io/company-website.git/2020/05/14/hello-world/#comments</comments>
+		<link>https://zadeleon.github.io/company-website/2020/05/14/hello-world/</link>
+					<comments>https://zadeleon.github.io/company-website/2020/05/14/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 14 May 2020 16:14:07 +0000</pubDate>
@@ -62,9 +62,9 @@
 		<category><![CDATA[epic]]></category>
 		<category><![CDATA[tech]]></category>
 		<category><![CDATA[vibe]]></category>
-		<guid isPermaLink="false">https://zadeleon.github.io/company-website.git/2020/05/14/hello-world/</guid>
+		<guid isPermaLink="false">https://zadeleon.github.io/company-website/2020/05/14/hello-world/</guid>
 
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac placerat vestibulum lectus mauris. Congue quisque egestas diam in arcu cursus euismod quis. Vitae proin sagittis nisl rhoncus mattis rhoncus. Nunc aliquet bibendum enim facilisis. Viverra aliquet eget sit amet<a class="moretag" href="https://zadeleon.github.io/company-website.git/2020/05/14/hello-world/"> Read more&#8230;</a>]]></description>
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac placerat vestibulum lectus mauris. Congue quisque egestas diam in arcu cursus euismod quis. Vitae proin sagittis nisl rhoncus mattis rhoncus. Nunc aliquet bibendum enim facilisis. Viverra aliquet eget sit amet<a class="moretag" href="https://zadeleon.github.io/company-website/2020/05/14/hello-world/"> Read more&#8230;</a>]]></description>
 										<content:encoded><![CDATA[
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac placerat vestibulum lectus mauris. Congue quisque egestas diam in arcu cursus euismod quis. Vitae proin sagittis nisl rhoncus mattis rhoncus. Nunc aliquet bibendum enim facilisis. Viverra aliquet eget sit amet tellus. A scelerisque purus semper eget. Dignissim sodales ut eu sem integer vitae justo. </p>
 
@@ -85,7 +85,7 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://zadeleon.github.io/company-website.git/2020/05/14/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://zadeleon.github.io/company-website/2020/05/14/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
